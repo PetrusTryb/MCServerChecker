@@ -1,0 +1,10 @@
+{
+	"checkInterval":10,
+	"servers":[
+		{
+			"name":"My server",
+			"host":"example.com",
+			"port":25565
+		}
+	]
+}
